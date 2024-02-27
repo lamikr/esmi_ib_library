@@ -1,0 +1,18 @@
+/*
+ * University of Illinois/NCSA Open Source License
+ *
+ * Copyright (c) 2020-2023, Advanced Micro Devices, Inc. All rights reserved.
+ *
+ */
+
+#ifndef INCLUDE_E_SMI_E_SMI64CONFIG_H_
+#define INCLUDE_E_SMI_E_SMI64CONFIG_H_
+
+// This file is generated on build.
+
+#define e_smi_VERSION_MAJOR @e_smi_VERSION_MAJOR@
+#define e_smi_VERSION_MINOR @e_smi_VERSION_MINOR@
+#define e_smi_VERSION_PATCH @e_smi_VERSION_PATCH@
+#define e_smi_VERSION_BUILD "@e_smi_VERSION_BUILD@"
+
+#endif  // INCLUDE_E_SMI_E_SMI64CONFIG_H_
